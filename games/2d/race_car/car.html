@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="drive as fast as you can"> 
+		<title>My Street | Cars</title>
+		<link rel="stylesheet" href="./static/css/style.css">
+	</head>
+
+	<body>
+		<div id="carGame">
+			<!-- game stats -->
+			<div id="stats">
+				<!-- game score -->
+				<div>
+					<span>Score:</span>
+					<span id="score"></span>
+				</div>
+
+				<!-- game speed -->
+				<div>
+					<span>Speed:</span>
+					<span id="speed"></span>
+				</div>
+
+				<!-- game time -->
+				<div>
+					<span>Time:</span>
+					<span id="time"></span>
+				</div>
+
+				<!-- play / pause / restart -->
+				<div>
+					<small>press space to</small>
+					<small id="status">play</small>
+				</div>
+			</div>
+
+			<!-- game start button -->
+			<div id="startScreen">
+				<p>
+					press here to start <br>
+					Arrow key to move <br>
+					if you hit another car you will lose.
+				</p>
+			</div>
+
+			<div id="gameArea">
+			</div>
+		</div>
+
+		<script defer src="./static/js/script.js"></script>
+	</body>
+
+</html>
