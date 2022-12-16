@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/eventeli/static/css/main.2af7bb08.css",
-    "main.js": "/eventeli/static/js/main.c8e1f8d6.js",
+    "main.js": "/eventeli/static/js/main.4f5e6e3b.js",
     "static/css/235.b74f5a75.chunk.css": "/eventeli/static/css/235.b74f5a75.chunk.css",
-    "static/js/235.bf9bb90f.chunk.js": "/eventeli/static/js/235.bf9bb90f.chunk.js",
+    "static/js/235.de02a120.chunk.js": "/eventeli/static/js/235.de02a120.chunk.js",
     "static/css/358.7fd4e6b5.chunk.css": "/eventeli/static/css/358.7fd4e6b5.chunk.css",
     "static/js/358.a69d7b1a.chunk.js": "/eventeli/static/js/358.a69d7b1a.chunk.js",
     "static/js/496.efb61e5a.chunk.js": "/eventeli/static/js/496.efb61e5a.chunk.js",
@@ -16,9 +16,9 @@
     "static/media/Group_88.png": "/eventeli/static/media/Group_88.edbbac3c9b5d22d82920.png",
     "index.html": "/eventeli/index.html",
     "main.2af7bb08.css.map": "/eventeli/static/css/main.2af7bb08.css.map",
-    "main.c8e1f8d6.js.map": "/eventeli/static/js/main.c8e1f8d6.js.map",
+    "main.4f5e6e3b.js.map": "/eventeli/static/js/main.4f5e6e3b.js.map",
     "235.b74f5a75.chunk.css.map": "/eventeli/static/css/235.b74f5a75.chunk.css.map",
-    "235.bf9bb90f.chunk.js.map": "/eventeli/static/js/235.bf9bb90f.chunk.js.map",
+    "235.de02a120.chunk.js.map": "/eventeli/static/js/235.de02a120.chunk.js.map",
     "358.7fd4e6b5.chunk.css.map": "/eventeli/static/css/358.7fd4e6b5.chunk.css.map",
     "358.a69d7b1a.chunk.js.map": "/eventeli/static/js/358.a69d7b1a.chunk.js.map",
     "496.efb61e5a.chunk.js.map": "/eventeli/static/js/496.efb61e5a.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.2af7bb08.css",
-    "static/js/main.c8e1f8d6.js"
+    "static/js/main.4f5e6e3b.js"
   ]
 }
