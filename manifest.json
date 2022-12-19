@@ -1,0 +1,23 @@
+{
+	"name": "codestudio",
+	"short_name": "codestudio",
+	"description": "imdev912.github.io",
+	"icons": [
+		{
+			"src": "/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"scope": "/",
+	"start_url": "https://imdev912.github.io",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#343a40",
+	"theme_color": "#343a40"
+}
