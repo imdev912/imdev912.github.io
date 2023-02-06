@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Labrador Retriever",
+    "type": "Dog"
+  },
+  {
+    "id": 2,
+    "name": "German Shepherd",
+    "type": "Dog"
+  },
+  {
+    "id": 3,
+    "name": "Siberian Husky",
+    "type": "Dog"
+  },
+  {
+    "id": 4,
+    "name": "Scottish Fold",
+    "type": "Cat"
+  },
+  {
+    "id": 5,
+    "name": "Maine Coon",
+    "type": "Cat"
+  },
+  {
+    "id": 6,
+    "name": "British Shorthair",
+    "type": "Cat"
+  },
+  {
+    "id": 7,
+    "name": "Syrian",
+    "type": "Hamster"
+  },
+  {
+    "id": 8,
+    "name": "Roborovski",
+    "type": "Hamster"
+  },
+  {
+    "id": 9,
+    "name": "Winter White",
+    "type": "Hamster"
+  }
+]

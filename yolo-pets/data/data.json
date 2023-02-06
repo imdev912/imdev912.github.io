@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [2,1,7],
+    "price": 3
+  },
+  {
+    "id": 2,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 3,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 1,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 2,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 3,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 1,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 2,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 3,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 1,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 2,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 3,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 1,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 2,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 3,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 1,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 2,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  },
+  {
+    "id": 3,
+    "name": "Summer",
+    "type": 3,
+    "age": {
+      "day": 12,
+      "month": 4,
+      "year": 0
+    },
+    "gender": 1,
+    "breed": 2,
+    "color": [
+      2,
+      1,
+      7
+    ],
+    "price": 3
+  }
+]
