@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ruan-sclipet/static/css/main.7d48ce88.css",
-    "main.js": "/ruan-sclipet/static/js/main.6f3c677c.js",
+    "main.js": "/ruan-sclipet/static/js/main.8c614207.js",
     "static/css/296.44a9753a.chunk.css": "/ruan-sclipet/static/css/296.44a9753a.chunk.css",
     "static/js/296.d31f0a63.chunk.js": "/ruan-sclipet/static/js/296.d31f0a63.chunk.js",
     "static/js/915.707bf044.chunk.js": "/ruan-sclipet/static/js/915.707bf044.chunk.js",
@@ -54,7 +54,7 @@
     "static/media/montserrat-vietnamese-500-normal.woff2": "/ruan-sclipet/static/media/montserrat-vietnamese-500-normal.0f3d20baf3dff383f36b.woff2",
     "index.html": "/ruan-sclipet/index.html",
     "main.7d48ce88.css.map": "/ruan-sclipet/static/css/main.7d48ce88.css.map",
-    "main.6f3c677c.js.map": "/ruan-sclipet/static/js/main.6f3c677c.js.map",
+    "main.8c614207.js.map": "/ruan-sclipet/static/js/main.8c614207.js.map",
     "296.44a9753a.chunk.css.map": "/ruan-sclipet/static/css/296.44a9753a.chunk.css.map",
     "296.d31f0a63.chunk.js.map": "/ruan-sclipet/static/js/296.d31f0a63.chunk.js.map",
     "915.707bf044.chunk.js.map": "/ruan-sclipet/static/js/915.707bf044.chunk.js.map",
@@ -80,6 +80,6 @@
   },
   "entrypoints": [
     "static/css/main.7d48ce88.css",
-    "static/js/main.6f3c677c.js"
+    "static/js/main.8c614207.js"
   ]
 }
